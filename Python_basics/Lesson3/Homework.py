@@ -130,6 +130,7 @@ while True:
                 print(f"Marks of {key} is {values}")
         case _:
             print("Enter a valid choice.")
+            
 
 
 # question 6
