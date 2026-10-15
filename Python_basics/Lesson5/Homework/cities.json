@@ -1,0 +1,14 @@
+{
+    "London": {
+        "Population": "8000000"
+    },
+    "New York": {
+        "Population": "40000"
+    },
+    "Rome": {
+        "Population": "700000"
+    },
+    "Tokyo": {
+        "Population": "500000"
+    }
+}
