@@ -10,7 +10,7 @@ class Professor:
 
 mg1 = manager()
 mg1.show_designation()
-
+print()
 pf1 = Professor()
 pf1.show_designation()
 
